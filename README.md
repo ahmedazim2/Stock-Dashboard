@@ -8,9 +8,7 @@ This project is a stock analysis and dashboard application that includes both a 
 - [Installation](#installation)
 - [Backend Setup](#backend-setup)
 - [Frontend Setup](#frontend-setup)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
