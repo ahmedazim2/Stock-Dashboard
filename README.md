@@ -1,6 +1,6 @@
 # Stock Project
 
-This project is a stock analysis and dashboard application that includes both a backend and a frontend. The backend is built with FastAPI and handles data processing and sentiment analysis. The frontend is built with React and provides a user interface for interacting with the stock data.
+This project is a stock analysis and dashboard application that includes both a backend and a frontend. The backend is built with FastAPI and handles data processing and sentiment analysis. The frontend is built with React and provides a user interface for interacting with the stock data.  It also contains stock prediction using Gemini AI.
 
 ## Table of Contents
 
@@ -15,6 +15,7 @@ This project is a stock analysis and dashboard application that includes both a 
 - Sentiment analysis of stock-related text using a pre-trained model
 - Interactive dashboard for visualizing stock data
 - RESTful API for data processing and analysis
+- Predict price and valuation using Gemini
 
 ## Installation
 

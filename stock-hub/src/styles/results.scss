@@ -1,0 +1,41 @@
+/* src/Result.css */
+.resultdiv {
+    margin: 20px;
+}
+
+.resultdiv h2 {
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 10px;
+}
+
+.resultdiv p {
+    font-size: 16px;
+    line-height: 1.5;
+
+    margin-bottom: 15px;
+}
+
+.resultdiv table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+.resultdiv table,
+.resultdiv th,
+.resultdiv td {
+    border: 1px solid #ddd;
+}
+
+.resultdiv th,
+.resultdiv td {
+    padding: 12px;
+    text-align: left;
+}
+
+
+
+
+.resultdiv .emphasis {
+    font-weight: bold;
+}
