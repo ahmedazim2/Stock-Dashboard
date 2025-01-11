@@ -57,12 +57,12 @@ cd ../frontend
 ```
 2. Install Dependencies
 3. Set up Environment:
-    Go to Finnhub.io and create an account to obtain API key
-    Go to Gemini AI and create an API key for your account
-    Create an .env file and add the following:
-        VITE_API_KEY = your_finnhub_api
-        VITE_GEMINI_API_KEY = your_gemini_api
+    - Go to Finnhub.io and create an account to obtain API key
+    - Go to Gemini AI and create an API key for your account
+    - Create an .env file and add the following:
+        - VITE_API_KEY = your_finnhub_api
+        - VITE_GEMINI_API_KEY = your_gemini_api
 
-  
+
 
 
