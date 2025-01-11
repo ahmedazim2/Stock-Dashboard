@@ -38,9 +38,31 @@ cd Stock-Dashboard
 
 ## Backend Setup
 1. Go to the Backend Directory: 
+```sh
 cd backend
+```
 2. Create a virtual environment:
+```sh 
 python -m venv venv
 source venv/bin/activate 
+```
+3. Install Dependencies:
+```sh
+pip install -r requirements.txt
+```
+## Frontend Setup
+1. Navigate to the Frontend Directory:
+```sh
+cd ../frontend
+```
+2. Install Dependencies
+3. Set up Environment:
+    Go to Finnhub.io and create an account to obtain API key
+    Go to Gemini AI and create an API key for your account
+    Create an .env file and add the following:
+        VITE_API_KEY = your_finnhub_api
+        VITE_GEMINI_API_KEY = your_gemini_api
+
+  
 
 
