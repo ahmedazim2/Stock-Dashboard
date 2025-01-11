@@ -28,6 +28,19 @@ This project is a stock analysis and dashboard application that includes both a 
 
 ### Clone the Repository
 
+
+
 ```sh
 git clone https://github.com/ahmedazim2/Stock-Dashboard.git
 cd Stock-Dashboard
+```
+
+
+## Backend Setup
+1. Go to the Backend Directory: 
+cd backend
+2. Create a virtual environment:
+python -m venv venv
+source venv/bin/activate 
+
+
