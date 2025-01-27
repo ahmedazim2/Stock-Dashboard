@@ -1,4 +1,4 @@
-# Stock Project
+# Stock Dashboard
 
 This project is a stock analysis and dashboard application that includes both a backend and a frontend. The backend is built with FastAPI and handles data processing and sentiment analysis. The frontend is built with React and provides a user interface for interacting with the stock data.  It also contains stock prediction using Gemini AI.
 
