@@ -1,5 +1,5 @@
 import React from 'react';
-// import { mockNews } from '../../constants/mock';
+
 import { Box, Stack, Typography, Link } from '@mui/material';
 
 interface NewsItem {

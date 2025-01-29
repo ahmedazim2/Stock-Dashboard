@@ -1,7 +1,6 @@
 import { Stack, Typography } from "@mui/material";
 import SearchBar from "./SearchBar";
-// import { mockCompanyDetails } from "../../constants/mock";
-// import Typography from "@mui/material";
+
 
 interface HeaderTagProps {
     setStockSymbol: (symbol: string) => void;
